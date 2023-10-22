@@ -19,7 +19,12 @@ namespace ForLoopDemo
 
             #endregion
 
-            #region user-range for
+            #region user-range for exercise
+            /* write a for loop that:
+             1- reads the range from the user
+             2- prints the even numbers 
+             3- prints the summation of the even numbers with the range
+            */
 
 
             #endregion
